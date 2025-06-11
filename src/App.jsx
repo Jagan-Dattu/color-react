@@ -3,7 +3,6 @@ import { Click } from './components/Click'
 
 function App() {
   const [color, setColor] = useState('') // <- central color state
-  const []=useContext()
 
   const bgMap = {
     red: 'bg-red-300',
