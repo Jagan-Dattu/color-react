@@ -1,4 +1,4 @@
-# 🎨 Employee Task App - Color Picker (React + Vite)
+# 🎨 Color Picker (React + Vite)
 
 This is a simple color selection app built using **React** with **Vite** as the build tool. Users can pick a color from a dropdown, and the selected color is dynamically applied.
 
